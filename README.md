@@ -39,8 +39,12 @@
   <a name="about-me"></a>
   <br><br><br><br>
   <hr style="border: none; border-top: 3px solid #ff0000;">
-
+  
   <h2>About Me:</h2>
+    
+  <div class="gif-section">
+    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="New Image" style="width: 100%;">
+  </div>
 
   <div class="flex-container">
     <div class="text-section">
@@ -63,6 +67,7 @@
           <ul>
             <li>Selenium</li>
             <li>requests</li>
+            <li>Using apis</li>
             <li>Using APIs</li>
             <li>Beautiful Soup</li>
           </ul>
@@ -74,24 +79,6 @@
         </li>
       </ul>
     </div>
-    <div class="gif-section">
-      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="New Image" style="width: 100%;">
-    </div>
   </div>
 </div>
-
-<style>
-  .flex-container {
-    display: flex;
-    justify-content: space-between;
-  }
-
-  .text-section {
-    flex: 1;
-  }
-
-  .gif-section {
-    flex-shrink: 0;
-  }
-</style>
 

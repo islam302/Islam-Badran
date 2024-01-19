@@ -36,6 +36,7 @@
 <div>
   <a name="about-me"></a>
   <br><br><br><br>
+  <hr style="color: #ff0000;">
 
   <h2>About Me:</h2>
   <ul>

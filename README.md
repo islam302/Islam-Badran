@@ -37,43 +37,48 @@
 
 <div>
   <a name="about-me"></a>
-  <br><br><br><br
+  <br><br><br><br>
   <hr style="border: none; border-top: 3px solid #ff0000;">
-  <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="New Image" width="33%">
-  </div>
-
-
+  
   <h2>About Me:</h2>
-  <ul>
-    <li>Software Engineer</li>
-    <li>Python Developer</li>
-    <li>Backend
+  
+  <div style="display: flex; flex-wrap: wrap-reverse; justify-content: space-between; align-items: center;">
+    <div style="width: 53%;">
       <ul>
-        <li>Django</li>
-        <li>Flask</li>
+        <li>Software Engineer</li>
+        <li>Python Developer</li>
+        <li>Backend
+          <ul>
+            <li>Django</li>
+            <li>Flask</li>
+          </ul>
+        </li>
+        <li>Desktop Application
+          <ul>
+            <li>PyQt5</li>
+            <li>Tkinter</li>
+          </ul>
+        </li>
+        <li>Web Scraping
+          <ul>
+            <li>Selenium</li>
+            <li>requests</li>
+            <li>Using apis</li>
+            <li>Using APIs</li>
+            <li>Beautiful Soup</li>
+          </ul>
+        </li>
+        <li>DevOps
+          <ul>
+            <li>Docker</li>
+          </ul>
+        </li>
       </ul>
-    </li>
-    <li>Desktop Application
-      <ul>
-        <li>PyQt5</li>
-        <li>Tkinter</li>
-      </ul>
-    </li>
-    <li>Web Scraping
-      <ul>
-        <li>Selenium</li>
-        <li>requests</li>
-        <li>Using apis</li>
-        <li>Using APIs</li>
-        <li>Beautiful Soup</li>
-      </ul>
-    </li>
-    <li>DevOps
-      <ul>
-        <li>Docker</li>
-      </ul>
-    </li>
-  </ul>
-  <hr style="border: none; border-bottom: 3px solid #0000ff;">
+      <hr style="border: none; border-bottom: 3px solid #0000ff;">
+    </div>
+    <div style="width: 33%; text-align: center;">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="New Image" width="100%">
+    </div>
+  </div>
 </div>
+

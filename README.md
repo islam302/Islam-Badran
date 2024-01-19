@@ -5,9 +5,4 @@
   <img align="left" width="200" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" alt="GIF on the left">
   
 
-  <p>
-    <a href="https://www.linkedin.com/in/islam-badran-39a577225?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-      <img src="linkedin_logo.png" alt="LinkedIn Logo" width="30" height="30">
-    </a>
-  </p>
-</div>
+https://img.shields.io/badge/{LinkedIn}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor=white

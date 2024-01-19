@@ -43,7 +43,7 @@
   <h2>About Me:</h2>
   
   <div style="display: flex; flex-wrap: wrap-reverse; justify-content: space-between; align-items: center;">
-    <div style="width: 53%;">
+    <div style="width: 66%;">
       <ul>
         <li>Software Engineer</li>
         <li>Python Developer</li>
@@ -76,7 +76,7 @@
       </ul>
       <hr style="border: none; border-bottom: 3px solid #0000ff;">
     </div>
-    <div style="width: 33%; text-align: center;">
+    <div style="width: 33%; text-align: right;">
       <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="New Image" width="100%">
     </div>
   </div>

@@ -1,17 +1,14 @@
 <div align="center">
   <p><strong><a href="https://github.com/islam302">Hey There! 👋, I'm Islam Badran</a></strong></p>
   <p><del>「 I am a Software Engineer | Python Developer | Backend Developer from Egypt 」</del></p>
-  
-  <!-- First Section: GIFs on the right and left -->
+
   <div align="center">
     <img align="right" width="150" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" alt="GIF on the right">
     <img align="left" width="150" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" alt="GIF on the left">
   </div>
   
-  <!-- Line break to separate the sections -->
   <br>
   
-  <!-- Second Section: Contact Information -->
   <div align="center">
     <p>Contact me at:</p>
     <a href="https://www.linkedin.com/in/islam-badran-39a577225?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
@@ -27,33 +24,5 @@
     <a href="https://mail.google.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-25D366?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
     </a>
-    j
-
-
-    j
-    j
-
-    j
-    j
-    j
-    j
-    j
-
-    j
-    j
-
-    j
-    jjjj
-    j
-    j
-
-    j
-    j
-    j
-    j
-    j
-
-    j
-    j
   </div>
 </div>

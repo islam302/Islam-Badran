@@ -23,5 +23,9 @@
     <a href="https://wa.link/bc2uxp" target="_blank">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge">
     </a>
+    <p>Gmail:</p>
+    <a href="https://mail.google.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-25D366?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
+    </a>
   </div>
 </div>

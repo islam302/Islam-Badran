@@ -34,7 +34,6 @@
 
 </div>
 
-
 <div>
   <a name="about-me"></a>
   <br><br><br><br>
@@ -81,5 +80,4 @@
     </div>
   </div>
 </div>
-
 

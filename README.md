@@ -34,17 +34,35 @@
 
 </div>
 
+
 <div>
   <a name="about-me"></a>
   <br><br><br><br>
   <hr style="border: none; border-top: 3px solid #ff0000;">
+  
   <h2>About Me:</h2>
-  <div style="display: flex; flex-wrap: wrap-reverse; justify-content: space-between; align-items: center;">
-    <div style="width: 66%; text-align: left;">
+  
+  <style>
+    .flex-container {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .text-section {
+      width: 66%;
+      text-align: left;
+    }
+
+    .gif-section {
+      width: 30%;
+      text-align: right;
+    }
+  </style>
+
+  <div class="flex-container">
+    <div class="text-section">
       <ul>
-         <div style="position: right; top: 50%; left: 50; transform: translateY(+50%);">
-            <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="New Image" width="30%">
-         </div>
         <li>Software Engineer</li>
         <li>Python Developer</li>
         <li>Backend
@@ -74,5 +92,11 @@
           </ul>
         </li>
       </ul>
+    </div>
+
+  <div class="gif-section">
+    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="New Image" style="width: 100%;">
+  </div>
   </div>
 </div>
+

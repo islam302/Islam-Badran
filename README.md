@@ -1,6 +1,5 @@
 
 
-
 <div align="center">
   <p><strong>[Hey There! 👋, I'm Islam Badran](https://github.com/islam302)</strong></p>
   <p>~~「 I am a Software Engineer | Python Developer | Backend Developer from Egypt 」~~</p>

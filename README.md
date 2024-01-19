@@ -33,10 +33,12 @@
   <img src="https://camo.githubusercontent.com/2d821f427e22599bab98d58d10af94518c146882fb0037e742f69354aacacb6c/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646f636b65722d69636f6e2e737667" alt="Flask Logo" width="100">
 </div>
 
-<style>
-  @media (max-width: 600px) {
-    img {
-      width: 80%; /* Adjust as needed */
+<div align="center">
+  <style>
+    @media (max-width: 600px) {
+      img {
+        width: 80%; /* Adjust as needed */
+      }
     }
-  }
-</style>
+  </style>
+</div>

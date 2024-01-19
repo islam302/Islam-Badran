@@ -34,35 +34,38 @@
 <a name="about-me"></a>
 <br><br><br><br>
 
-<h2>About Me:</h2>
-<ul>
-  <li>Software Engineer</li>
-  <li>Python Developer</li>
-  <li>Backend
-    <ul>
-      <li>Django</li>
-      <li>Flask</li>
-    </ul>
-  </li>
-  <li>Desktop Application
-    <ul>
-      <li>PyQt5</li>
-      <li>Tkinter</li>
-    </ul>
-  </li>
-  <li>Web Scraping
-    <ul>
-      <li>Selenium</li>
-      <li>requests</li>
-      <!-- Fixed typo here -->
-      <li>Using APIs</li>
-      <li>Beautiful Soup</li>
-    </ul>
-  </li>
-  <li>DevOps
-    <ul>
-      <li>Docker</li>
-    </ul>
-  </li>
-</ul>
+<div>
+  <h2>About Me:</h2>
+  <ul>
+    <li>Software Engineer</li>
+    <li>Python Developer</li>
+    <li>Backend
+      <ul>
+        <li>Django</li>
+        <li>Flask</li>
+      </ul>
+    </li>
+    <li>Desktop Application
+      <ul>
+        <li>PyQt5</li>
+        <li>Tkinter</li>
+      </ul>
+    </li>
+    <li>Web Scraping
+      <ul>
+        <li>Selenium</li>
+        <li>requests</li>
+        <!-- Fixed typo here -->
+        <li>Using APIs</li>
+        <li>Beautiful Soup</li>
+      </ul>
+    </li>
+    <li>DevOps
+      <ul>
+        <li>Docker</li>
+      </ul>
+    </li>
+  </ul>
 </div>
+
+

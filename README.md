@@ -41,30 +41,10 @@
   <hr style="border: none; border-top: 3px solid #ff0000;">
   
   <h2>About Me:</h2>
-  
-  <style>
-    .flex-container {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-    }
-
-    .text-section {
-      width: 66%;
-      text-align: left;
-    }
     
   <div class="gif-section">
     <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="New Image" style="width: 100%;">
   </div>
-
-    .gif-section {
-      width: 30%;
-      text-align: right;
-    }
-  </style>
-  
-
   <div class="flex-container">
     <div class="text-section">
       <ul>

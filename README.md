@@ -79,7 +79,9 @@
       </ul>
     </div>
   </div>
-  <img src="https://camo.githubusercontent.com/ea40cfc33ac9e94789b044995f312e432d41bc1fd371f413583092df7649ef3d/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966" alt="Additional Image">
+ <div class="gif-section">
+    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="New Image" style="width: 50%;">
+  </div>
 </div>
 
 

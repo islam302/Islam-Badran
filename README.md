@@ -89,7 +89,7 @@
   <ul>
       <li>
           <p>
-              <strong>Backend</strong>
+              <strong>Backend</strong>|
               <a href="https://skillicons.dev">
                   <img src="https://skillicons.dev/icons?i=py,django,js,cpp" alt="Backend Icons">
               </a>

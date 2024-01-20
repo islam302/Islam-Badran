@@ -88,18 +88,32 @@
     
   <ul>
       <li>
-          <p><strong>Backend:</strong></p>
+          <p><strong>Backend</strong></p>
               <a href="https://skillicons.dev">
-                  <img src="https://skillicons.dev/icons?i=py,django,js,cpp" alt="Backend Icons">
+                  <img src="https://skillicons.dev/icons?i=py,django,flask,js,cpp" alt="Backend Icons">
               </a>
       </li>
 
   <li>
-      <p><strong>Web Scraping:</strong></p>
+      <p><strong>Web Scraping</strong></p>
           <a href="https://skillicons.dev">
-              <img src="https://skillicons.dev/icons?i=selenium,qt" alt="Web Scraping Icons">
+              <img src="https://skillicons.dev/icons?i=selenium,qt,opencv" alt="Web Scraping Icons">
           </a>
   </li>
+
+  <li>
+    <p><strong>Tools</strong></p>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=git,github,docker,idea,postman" alt=Tools Icons">
+        </a>
+</li>
+
+  <li>
+    <p><strong>Database</strong></p>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=postgres,sqlite" alt="Database Icons">
+        </a>
+</li>
   </ul>
 </div>
 

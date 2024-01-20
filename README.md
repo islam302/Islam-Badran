@@ -48,7 +48,6 @@
   <div class="flex-container">
     <div class="text-section">
       <ul>
-        <li>Python Developer</li>
           <li>Backend</li>
             <ul>
               <li>Django</li>

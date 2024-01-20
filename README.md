@@ -88,7 +88,7 @@
     
   <ul>
       <li>
-          <p align="center">
+          <p>
               <strong>Backend</strong>
               <a href="https://skillicons.dev">
                   <img src="https://skillicons.dev/icons?i=py,django,js,cpp" alt="Backend Icons">
@@ -97,7 +97,7 @@
       </li>
 
   <li>
-      <p align="center">
+      <p>
           <strong>Web Scraping</strong>
           <a href="https://skillicons.dev">
               <img src="https://skillicons.dev/icons?i=selenium,qt" alt="Web Scraping Icons">

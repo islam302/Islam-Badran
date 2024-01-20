@@ -88,21 +88,17 @@
     
   <ul>
       <li>
-          <p>
-              <strong>Backend:</strong>
+          <p><strong>Backend:</strong></p>
               <a href="https://skillicons.dev">
                   <img src="https://skillicons.dev/icons?i=py,django,js,cpp" alt="Backend Icons">
               </a>
-          </p>
       </li>
 
   <li>
-      <p>
-          <strong>Web Scraping:</strong>
+      <p><strong>Web Scraping:</strong></p>
           <a href="https://skillicons.dev">
               <img src="https://skillicons.dev/icons?i=selenium,qt" alt="Web Scraping Icons">
           </a>
-      </p>
   </li>
   </ul>
 </div>

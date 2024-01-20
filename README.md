@@ -1,5 +1,5 @@
 <div align="center">
-  <p><strong>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0FB4FF&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B%2C+I'm+Islam+Badran)](https://git.io/typing-svg)</strong></p>
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There!+👋,+I'm+Islam+Badran)](https://git.io/typing-svg)
   <p><strong>「 I am a Software Engineer | Python Developer | Backend Developer from Egypt 」</strong></p>
 
   <div align="center">

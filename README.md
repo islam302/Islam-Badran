@@ -79,7 +79,8 @@
       </ul>
     </div>
   </div>
-  <hr style="border: none; border-top: 3px solid #ff0000;">
+<div style="background-image: url('https://camo.githubusercontent.com/ea40cfc33ac9e94789b044995f312e432d41bc1fd371f413583092df7649ef3d/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966'); height: 3px;"></div>
+
 </div>
 
 

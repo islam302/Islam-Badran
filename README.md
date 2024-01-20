@@ -49,12 +49,11 @@
     <div class="text-section">
       <ul>
         <li>Python Developer</li>
-        <li>Backend</li>
-          <ul>
-            <li>Django</li>
-            <li>Flask</li>
-          </ul>
-        </li>
+          <li>Backend</li>
+            <ul>
+              <li>Django</li>
+              <li>Flask</li>
+            </ul>
         <li>Desktop Application
           <ul>
             <li>PyQt5</li>

@@ -63,7 +63,6 @@
           <ul>
             <li>Selenium</li>
             <li>requests</li>
-            <li>Using apis</li>
             <li>Using APIs</li>
             <li>Beautiful Soup</li>
           </ul>
@@ -76,12 +75,12 @@
       </ul>
     </div>
   </div>
-<hr style="background-image:
-  url('[https://camo.githubusercontent.com/ea40cfc33ac9e94789b044995f312e432d41bc1fd371f413583092df7649ef3d/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966](https://camo.githubusercontent.com/ea40cfc33ac9e94789b044995f312e432d41bc1fd371f413583092df7649ef3d/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966)https://camo.githubusercontent.com/ea40cfc33ac9e94789b044995f312e432d41bc1fd371f413583092df7649ef3d/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966'); height: 2px;">
+<hr style="background-image: url('https://camo.githubusercontent.com/ea40cfc33ac9e94789b044995f312e432d41bc1fd371f413583092df7649ef3d/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966'); height: 2px;">
 </div>
+
 <div>
-    <a name="about-me"></a>
-    <h2>Languages and Tools:</h2>
+  <a name="about-me"></a>
+  <h2>Languages and Tools:</h2>
     
   <ul>
       <li>
@@ -113,4 +112,3 @@
 </li>
   </ul>
 </div>
-

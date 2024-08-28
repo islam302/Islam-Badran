@@ -25,7 +25,7 @@
 <div align="center">
   <br>
   
-  <img src="https://ibb.co/dKFKLwT" alt="Python Logo" width="100">
+  <img src="https://i.ibb.co/4NzNYnq/download.png" alt="Python Logo" width="100">
   
   <img src="https://ibb.co/QphW0j8" alt="Django Logo" width="100">
   
